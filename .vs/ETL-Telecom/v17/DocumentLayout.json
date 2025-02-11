@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BI ITI\\ETL\\New folder\\ETL-Telecom\\ETL-Telecom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{132A1BC8-44C8-4451-BA03-4C308F66C8D6}|ETL-Telecom\\ETL-Telecom.dtproj|D:\\BI ITI\\ETL\\New folder\\ETL-Telecom\\ETL-Telecom\\ETL-Telecom\\Load Data.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{132A1BC8-44C8-4451-BA03-4C308F66C8D6}|ETL-Telecom\\ETL-Telecom.dtproj|solutionrelative:ETL-Telecom\\Load Data.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Load Data.dtsx [Design]",
+              "DocumentMoniker": "D:\\BI ITI\\ETL\\New folder\\ETL-Telecom\\ETL-Telecom\\ETL-Telecom\\Load Data.dtsx",
+              "RelativeDocumentMoniker": "ETL-Telecom\\Load Data.dtsx",
+              "ToolTip": "D:\\BI ITI\\ETL\\New folder\\ETL-Telecom\\ETL-Telecom\\ETL-Telecom\\Load Data.dtsx [Design]",
+              "RelativeToolTip": "ETL-Telecom\\Load Data.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-09T14:58:30.802Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
